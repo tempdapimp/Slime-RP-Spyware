@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["☁️Takin Over Turfs","Killin Da Rest❌","👻! Ghost Security !🛡️"];
+const statusMessages = ["💻Playing Slime RP🔥","Scanning Slime RP Discord","🛡️! Slime Security !🛡️"];
 
 
 let currentIndex = 0;
